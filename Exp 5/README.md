@@ -1,4 +1,4 @@
-# Experiment 5 — Case toggler
+# Experiment 5 - Case toggler
 
 ## Terminal session
 ```
