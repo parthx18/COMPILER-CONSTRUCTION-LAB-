@@ -1,7 +1,5 @@
 # Experiment 9 — Desk Calculator (YACC + Lex)
 
-Source: image upload (terminal transcript + lex file) and Document (1).pdf (yacc grammar file)
-
 A desk calculator built with Lex (`cal_1279.l`) for tokenizing and Yacc
 (`cal_1279.y`) for parsing/evaluating arithmetic expressions
 (`+ - * /`, parentheses, operator precedence, division-by-zero and
