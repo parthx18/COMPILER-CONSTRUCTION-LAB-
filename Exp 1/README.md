@@ -1,7 +1,5 @@
 # Experiment 1 — Number word recognizer
 
-Source: cc1.docx
-
 ## Terminal session
 ```
 lab-03-30@lab-03-30-OptiPlex-3280-AIO:~$ vim 1279.l
