@@ -1,7 +1,5 @@
 # Experiment 7 — Ends-with-"com" checker
 
-Source: cc_7th_exp.docx
-
 ## Terminal session
 ```
 sit-lab2-pc30@sit-lab2-pc30-OptiPlex-3280-AIO:~$ vim exp7_1279.l
