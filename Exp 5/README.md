@@ -1,7 +1,5 @@
 # Experiment 5 — Case toggler
 
-Source: cc_5.docx
-
 ## Terminal session
 ```
 lab-03-15@lab-03-15-OptiPlex-3280-AIO:~$ vim case-279.l
