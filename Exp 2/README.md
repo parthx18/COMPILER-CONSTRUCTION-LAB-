@@ -1,7 +1,5 @@
 # Experiment 2 — Lexical Analyzer
 
-Source: cc2.docx
-
 ## Terminal session
 ```
 sit-lab2-pc30@sit-lab2-pc30-OptiPlex-3280-AIO:~$ vim analyzer1279.l
