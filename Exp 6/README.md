@@ -1,7 +1,5 @@
 # Experiment 6 — Decimal to Hexadecimal converter
 
-Source: exp_6_cc.docx
-
 ## Terminal session
 ```
 sit-lab2-pc29@sit-lab2-pc29-OptiPlex-3280-AIO:~$ vim exp6_279.l
