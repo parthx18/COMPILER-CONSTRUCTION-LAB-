@@ -3,7 +3,7 @@
 ## Aim
 Introduction to YACC tool, and format to write the YACC code.
 
----
+--
 
 ## Theory
 **YACC** (*Yet Another Compiler-Compiler*) is a parser generator used to create the syntax analyzer (parser) of a compiler. It takes a Context-Free Grammar (CFG) as input and automatically generates C code for parsing input tokens.
