@@ -5,7 +5,6 @@ A postfix (Reverse Polish Notation) expression evaluator built with Lex
 evaluating expressions (`+ - * /`, division-by-zero handling and syntax-error
 recovery). Operands are pushed and operators are applied to the two most
 recent values, so no parentheses or precedence rules are needed.
-
 ## Terminal session
 ```
 lab-03-25@lab-03-25-OptiPlex-3280-AIO:~$ vim postfix279.l
